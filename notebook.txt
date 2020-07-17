@@ -1,0 +1,3 @@
+Intel i3 7100
+Intel i5 7500
+Intel i7 7600
