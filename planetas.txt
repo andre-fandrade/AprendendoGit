@@ -1,3 +1,6 @@
 Jupter
 Marte
 Lua Lua
+
+Venus
+Plutão
