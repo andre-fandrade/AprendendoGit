@@ -3,17 +3,13 @@ Sinop
 Santa Catarina
 
 São Paulo
-<<<<<<< HEAD
 
 Ponta Grossa
 
 Mato Grosso
 
 Santos
-=======
-Santos
 
 Dourados
 Campo Grande
 Rondonia
->>>>>>> 8975027f2cd166ae3bdfdb901fd5e40d1b5c545f
